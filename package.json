@@ -1,0 +1,11 @@
+{
+  "name": "rsa-calculator",
+  "version": "1.0.0",
+  "description": "RSA calculator with user input",
+  "main": "Calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jacob H",
+  "license": "ISC"
+}
